@@ -1,0 +1,137 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXAggregateTarget section */
+		89C015651E61036700446047 /* API */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 89C015661E61036700446047 /* Build configuration list for PBXAggregateTarget "API" */;
+			buildPhases = (
+				89C015691E61037C00446047 /* ShellScript */,
+			);
+			dependencies = (
+			);
+			name = API;
+			productName = API;
+		};
+/* End PBXAggregateTarget section */
+
+/* Begin PBXFileReference section */
+		89C015641E61033500446047 /* Source */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Source; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		89C0155D1E61030C00446047 = {
+			isa = PBXGroup;
+			children = (
+				89C015641E61033500446047 /* Source */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		89C0155E1E61030C00446047 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				KnownAssetTags = (
+					New,
+				);
+				LastUpgradeCheck = 0820;
+				TargetAttributes = {
+					89C015651E61036700446047 = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 7YD5BZG36Z;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 89C015611E61030C00446047 /* Build configuration list for PBXProject "Rest-API" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 89C0155D1E61030C00446047;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				89C015651E61036700446047 /* API */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		89C015691E61037C00446047 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "osascript '/Users/abdulaziz/Desktop/iOS Tutoring/Rest-API/RunAPI.scpt'";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		89C015621E61030C00446047 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		89C015631E61030C00446047 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+		89C015671E61036700446047 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = 7YD5BZG36Z;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		89C015681E61036700446047 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = 7YD5BZG36Z;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		89C015611E61030C00446047 /* Build configuration list for PBXProject "Rest-API" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				89C015621E61030C00446047 /* Debug */,
+				89C015631E61030C00446047 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		89C015661E61036700446047 /* Build configuration list for PBXAggregateTarget "API" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				89C015671E61036700446047 /* Debug */,
+				89C015681E61036700446047 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 89C0155E1E61030C00446047 /* Project object */;
+}

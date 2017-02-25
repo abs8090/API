@@ -1,0 +1,182 @@
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-15T18:03:04.840Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-15T18:03:04.859Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-15T18:03:04.869Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-15T18:03:04.869Z"}
+{"level":"info","message":"Mongo connected","timestamp":"2017-02-15T18:03:04.889Z"}
+{"level":"info","message":"Mongo connection open","timestamp":"2017-02-15T18:03:04.889Z"}
+{"level":"info","message":" ","timestamp":"2017-02-15T18:03:36.061Z"}
+{"level":"info","message":" ","timestamp":"2017-02-15T18:03:36.062Z"}
+{"level":"info","message":"GET request on: /","timestamp":"2017-02-15T18:03:36.062Z"}
+{"level":"error","message":"ReferenceError: io is not defined\n    at /Users/EphraimRusso/Desktop/Job Finding/Batteries 911/Rest-API/Source/routes.js:4:9\n    at Layer.handle [as handle_request] (/Users/EphraimRusso/Desktop/Job Finding/Batteries 911/Rest-API/Source/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/EphraimRusso/Desktop/Job Finding/Batteries 911/Rest-API/Source/node_modules/express/lib/router/route.js:131:13)\n    at Route.dispatch (/Users/EphraimRusso/Desktop/Job Finding/Batteries 911/Rest-API/Source/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/Users/EphraimRusso/Desktop/Job Finding/Batteries 911/Rest-API/Source/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/EphraimRusso/Desktop/Job Finding/Batteries 911/Rest-API/Source/node_modules/express/lib/router/index.js:277:22\n    at Function.process_params (/Users/EphraimRusso/Desktop/Job Finding/Batteries 911/Rest-API/Source/node_modules/express/lib/router/index.js:330:12)\n    at next (/Users/EphraimRusso/Desktop/Job Finding/Batteries 911/Rest-API/Source/node_modules/express/lib/router/index.js:271:10)\n    at /Users/EphraimRusso/Desktop/Job Finding/Batteries 911/Rest-API/Source/app.js:59:5\n    at Layer.handle [as handle_request] (/Users/EphraimRusso/Desktop/Job Finding/Batteries 911/Rest-API/Source/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/EphraimRusso/Desktop/Job Finding/Batteries 911/Rest-API/Source/node_modules/express/lib/router/index.js:312:13)\n    at /Users/EphraimRusso/Desktop/Job Finding/Batteries 911/Rest-API/Source/node_modules/express/lib/router/index.js:280:7\n    at Function.process_params (/Users/EphraimRusso/Desktop/Job Finding/Batteries 911/Rest-API/Source/node_modules/express/lib/router/index.js:330:12)\n    at next (/Users/EphraimRusso/Desktop/Job Finding/Batteries 911/Rest-API/Source/node_modules/express/lib/router/index.js:271:10)\n    at /Users/EphraimRusso/Desktop/Job Finding/Batteries 911/Rest-API/Source/app.js:36:5\n    at Layer.handle [as handle_request] (/Users/EphraimRusso/Desktop/Job Finding/Batteries 911/Rest-API/Source/node_modules/express/lib/router/layer.js:95:5)","timestamp":"2017-02-15T18:03:36.070Z"}
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-15T18:04:25.072Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-15T18:04:25.084Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-15T18:04:25.091Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-15T18:04:25.091Z"}
+{"level":"info","message":"Mongo connected","timestamp":"2017-02-15T18:04:25.106Z"}
+{"level":"info","message":"Mongo connection open","timestamp":"2017-02-15T18:04:25.106Z"}
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-15T18:05:01.619Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-15T18:05:01.635Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-15T18:05:01.643Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-15T18:05:01.643Z"}
+{"level":"info","message":"Mongo connected","timestamp":"2017-02-15T18:05:01.658Z"}
+{"level":"info","message":"Mongo connection open","timestamp":"2017-02-15T18:05:01.658Z"}
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-15T18:05:34.901Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-15T18:05:34.915Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-15T18:05:34.922Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-15T18:05:34.922Z"}
+{"level":"info","message":"Mongo connected","timestamp":"2017-02-15T18:05:34.937Z"}
+{"level":"info","message":"Mongo connection open","timestamp":"2017-02-15T18:05:34.937Z"}
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-15T18:06:19.697Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-15T18:06:19.712Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-15T18:06:19.720Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-15T18:06:19.720Z"}
+{"level":"info","message":"Mongo connected","timestamp":"2017-02-15T18:06:19.738Z"}
+{"level":"info","message":"Mongo connection open","timestamp":"2017-02-15T18:06:19.738Z"}
+{"level":"info","message":" ","timestamp":"2017-02-15T18:06:26.164Z"}
+{"level":"info","message":" ","timestamp":"2017-02-15T18:06:26.165Z"}
+{"level":"info","message":"GET request on: /","timestamp":"2017-02-15T18:06:26.165Z"}
+{"level":"info","message":"Mongo disconnected","timestamp":"2017-02-15T18:07:53.976Z"}
+{"level":"info","message":"Mongo connection closed","timestamp":"2017-02-15T18:07:53.977Z"}
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-16T22:03:08.780Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-16T22:03:08.795Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-16T22:03:08.805Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-16T22:03:08.805Z"}
+{"level":"info","message":"Mongo connected","timestamp":"2017-02-16T22:03:08.841Z"}
+{"level":"info","message":"Mongo connection open","timestamp":"2017-02-16T22:03:08.842Z"}
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-16T22:10:02.512Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-16T22:10:02.527Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-16T22:10:02.535Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-16T22:10:02.535Z"}
+{"level":"info","message":"Mongo connected","timestamp":"2017-02-16T22:10:02.560Z"}
+{"level":"info","message":"Mongo connection open","timestamp":"2017-02-16T22:10:02.561Z"}
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-16T22:21:34.634Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-16T22:21:34.647Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-16T22:21:34.655Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-16T22:21:34.655Z"}
+{"level":"info","message":"Mongo connected","timestamp":"2017-02-16T22:21:34.678Z"}
+{"level":"info","message":"Mongo connection open","timestamp":"2017-02-16T22:21:34.679Z"}
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-16T22:21:42.880Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-16T22:21:42.896Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-16T22:21:42.909Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-16T22:21:42.909Z"}
+{"level":"info","message":"Mongo connected","timestamp":"2017-02-16T22:21:42.939Z"}
+{"level":"info","message":"Mongo connection open","timestamp":"2017-02-16T22:21:42.940Z"}
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-16T22:21:49.435Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-16T22:21:49.457Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-16T22:21:49.467Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-16T22:21:49.467Z"}
+{"level":"info","message":"Mongo connected","timestamp":"2017-02-16T22:21:49.498Z"}
+{"level":"info","message":"Mongo connection open","timestamp":"2017-02-16T22:21:49.499Z"}
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-16T22:22:09.549Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-16T22:22:09.563Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-16T22:22:09.571Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-16T22:22:09.571Z"}
+{"level":"info","message":"Mongo connected","timestamp":"2017-02-16T22:22:09.597Z"}
+{"level":"info","message":"Mongo connection open","timestamp":"2017-02-16T22:22:09.598Z"}
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-16T22:22:21.079Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-16T22:22:21.093Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-16T22:22:21.100Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-16T22:22:21.101Z"}
+{"level":"info","message":"Mongo connected","timestamp":"2017-02-16T22:22:21.125Z"}
+{"level":"info","message":"Mongo connection open","timestamp":"2017-02-16T22:22:21.126Z"}
+{"level":"info","message":" ","timestamp":"2017-02-16T22:38:43.389Z"}
+{"level":"info","message":" ","timestamp":"2017-02-16T22:38:43.389Z"}
+{"level":"info","message":"GET request on: /users","timestamp":"2017-02-16T22:38:43.390Z"}
+{"level":"info","message":" ","timestamp":"2017-02-16T22:38:43.653Z"}
+{"level":"info","message":" ","timestamp":"2017-02-16T22:38:43.653Z"}
+{"level":"info","message":"GET request on: /favicon.ico","timestamp":"2017-02-16T22:38:43.653Z"}
+{"level":"info","message":" ","timestamp":"2017-02-16T22:39:15.951Z"}
+{"level":"info","message":" ","timestamp":"2017-02-16T22:39:15.952Z"}
+{"level":"info","message":"GET request on: /users","timestamp":"2017-02-16T22:39:15.952Z"}
+{"level":"info","message":" ","timestamp":"2017-02-16T22:39:16.823Z"}
+{"level":"info","message":" ","timestamp":"2017-02-16T22:39:16.824Z"}
+{"level":"info","message":"GET request on: /","timestamp":"2017-02-16T22:39:16.824Z"}
+{"level":"info","message":" ","timestamp":"2017-02-16T22:39:19.783Z"}
+{"level":"info","message":" ","timestamp":"2017-02-16T22:39:19.783Z"}
+{"level":"info","message":"GET request on: /butthole","timestamp":"2017-02-16T22:39:19.783Z"}
+{"level":"info","message":" ","timestamp":"2017-02-16T22:42:15.047Z"}
+{"level":"info","message":" ","timestamp":"2017-02-16T22:42:15.047Z"}
+{"level":"info","message":"GET request on: /users","timestamp":"2017-02-16T22:42:15.047Z"}
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-16T22:43:38.294Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-16T22:43:38.309Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-16T22:43:38.316Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-16T22:43:38.317Z"}
+{"level":"info","message":"Mongo connected","timestamp":"2017-02-16T22:43:38.345Z"}
+{"level":"info","message":"Mongo connection open","timestamp":"2017-02-16T22:43:38.346Z"}
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-16T22:46:03.333Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-16T22:46:03.349Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-16T22:46:03.357Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-16T22:46:03.358Z"}
+{"level":"info","message":"Mongo connected","timestamp":"2017-02-16T22:46:03.385Z"}
+{"level":"info","message":"Mongo connection open","timestamp":"2017-02-16T22:46:03.386Z"}
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-16T22:47:29.539Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-16T22:47:29.555Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-16T22:47:29.565Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-16T22:47:29.565Z"}
+{"level":"info","message":"Mongo disconnected","timestamp":"2017-02-16T22:47:29.577Z"}
+{"level":"info","message":"Mongo connection error","timestamp":"2017-02-16T22:47:29.579Z"}
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-16T22:48:17.112Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-16T22:48:17.124Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-16T22:48:17.132Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-16T22:48:17.133Z"}
+{"level":"info","message":"Mongo connected","timestamp":"2017-02-16T22:48:17.167Z"}
+{"level":"info","message":"Mongo connection open","timestamp":"2017-02-16T22:48:17.167Z"}
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-16T22:49:11.093Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-16T22:49:11.105Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-16T22:49:11.113Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-16T22:49:11.114Z"}
+{"level":"info","message":"Mongo connected","timestamp":"2017-02-16T22:49:11.136Z"}
+{"level":"info","message":"Mongo connection open","timestamp":"2017-02-16T22:49:11.137Z"}
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-16T22:49:19.200Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-16T22:49:19.216Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-16T22:49:19.223Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-16T22:49:19.223Z"}
+{"level":"info","message":"Mongo connected","timestamp":"2017-02-16T22:49:19.248Z"}
+{"level":"info","message":"Mongo connection open","timestamp":"2017-02-16T22:49:19.249Z"}
+{"level":"info","message":"Mongo disconnected","timestamp":"2017-02-16T22:49:25.269Z"}
+{"level":"info","message":"Mongo connection closed","timestamp":"2017-02-16T22:49:25.270Z"}
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-16T22:50:11.346Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-16T22:50:11.361Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-16T22:50:11.369Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-16T22:50:11.369Z"}
+{"level":"info","message":"Mongo connected","timestamp":"2017-02-16T22:50:11.394Z"}
+{"level":"info","message":"Mongo connection open","timestamp":"2017-02-16T22:50:11.395Z"}
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-16T22:56:08.118Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-16T22:56:08.146Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-16T22:56:08.159Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-16T22:56:08.159Z"}
+{"level":"info","message":"Mongo connected","timestamp":"2017-02-16T22:56:08.189Z"}
+{"level":"info","message":"Mongo connection open","timestamp":"2017-02-16T22:56:08.190Z"}
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-16T22:59:10.931Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-16T22:59:10.943Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-16T22:59:10.951Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-16T22:59:10.951Z"}
+{"level":"info","message":"Mongo connected","timestamp":"2017-02-16T22:59:10.971Z"}
+{"level":"info","message":"Mongo connection open","timestamp":"2017-02-16T22:59:10.971Z"}
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-16T22:59:36.526Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-16T22:59:36.539Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-16T22:59:36.547Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-16T22:59:36.547Z"}
+{"level":"info","message":"Mongo connected","timestamp":"2017-02-16T22:59:36.570Z"}
+{"level":"info","message":"Mongo connection open","timestamp":"2017-02-16T22:59:36.570Z"}
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-16T23:02:32.984Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-16T23:02:32.998Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-16T23:02:33.007Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-16T23:02:33.007Z"}
+{"level":"info","message":"Mongo connected","timestamp":"2017-02-16T23:02:33.028Z"}
+{"level":"info","message":"Mongo connection open","timestamp":"2017-02-16T23:02:33.029Z"}
+{"level":"info","message":" ","timestamp":"2017-02-16T23:03:04.653Z"}
+{"level":"info","message":" ","timestamp":"2017-02-16T23:03:04.653Z"}
+{"level":"info","message":"GET request on: /","timestamp":"2017-02-16T23:03:04.654Z"}
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-16T23:04:02.415Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-16T23:04:02.435Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-16T23:04:02.444Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-16T23:04:02.445Z"}
+{"level":"info","message":"Mongo connected","timestamp":"2017-02-16T23:04:02.477Z"}
+{"level":"info","message":"Mongo connection open","timestamp":"2017-02-16T23:04:02.478Z"}
+{"level":"info","message":"Mongo connecting","timestamp":"2017-02-25T00:18:10.776Z"}
+{"level":"info","message":"Listening on http","timestamp":"2017-02-25T00:18:10.794Z"}
+{"level":"info","message":"Server started","timestamp":"2017-02-25T00:18:10.804Z"}
+{"level":"info","message":"Currently accepting connections on port 8080","timestamp":"2017-02-25T00:18:10.804Z"}
+{"level":"info","message":"Mongo connected","timestamp":"2017-02-25T00:18:10.842Z"}
+{"level":"info","message":"Mongo connection open","timestamp":"2017-02-25T00:18:10.843Z"}
